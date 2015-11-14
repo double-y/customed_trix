@@ -1,4 +1,5 @@
 Trix.config.lang =
+  head: "Head"
   bold: "Bold"
   bullets: "Bullets"
   byte:  "Byte"
